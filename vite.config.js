@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: "/pips-diary",
+  base: "/pips-diary-landing",
 })
