@@ -631,7 +631,7 @@ const LandingPage = () => {
                 <h3 className="text-3xl font-bold text-orange-900 mb-3">Pro</h3>
                 <div className="flex items-baseline justify-center mb-6">
                   <span className="text-5xl font-bold text-orange-900">
-                    Rp 29k
+                    Rp 29.000
                   </span>
                   <span className="text-gray-600 ml-2 text-xl font-semibold">
                     /bulan
@@ -708,11 +708,11 @@ const LandingPage = () => {
                 </h3>
                 <div className="flex items-baseline justify-center mb-6">
                   <span className="text-5xl font-bold text-purple-900">
-                    Rp 399k
+                    Rp 399.000
                   </span>
-                  <span className="text-gray-600 ml-2 text-xl font-semibold">
+                  {/* <span className="text-gray-600 ml-2 text-xl font-semibold">
                     /selamanya
-                  </span>
+                  </span> */}
                 </div>
 
                 <ul className="space-y-4 text-left">
